@@ -28,4 +28,4 @@ The tool has several features to configure the way the message is decoded. The a
 + -d: Enable debugging
 + -h: Help argument
 
-To run the command, you have to run the tool.py file setting at least the argument for the video file
+To run the command, you have to run the tool.py file setting at least the argument for the video file and rectangle position and size (-X, -Y, -W and -H). With all this arguments setted, you can run the command. It is recomended to make the first runs with the command -f to be able to see where the rectangle is and know how it is decoding the information.
