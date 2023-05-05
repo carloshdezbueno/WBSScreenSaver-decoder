@@ -1,1 +1,0 @@
-python tool.py --video-file "Video de WhatsApp 2023-05-01 a las 12.40.46.mp4"
